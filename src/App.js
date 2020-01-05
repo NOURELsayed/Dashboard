@@ -7,7 +7,7 @@ import UserIcon from '@material-ui/icons/Group';
 
 import { UserList } from './components/users';
 import { PostList } from './components/posts';
-import Dashboard from './components/Dashboard';
+import Dashboard from './components/Dashboard/Dashboard';
 import authProvider from './components/Auth/authProvider';
 import MyLoginPage from './components/Auth/myLoginPage';
 import MyLogoutButton from './components/Auth/myLogoutButton';
